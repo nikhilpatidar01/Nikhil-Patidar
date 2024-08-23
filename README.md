@@ -14,7 +14,7 @@
 <a href="https://twitter.com/nikhilpatidar01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nikhilpatidar01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nikhil-patidar-8667661b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil-patidar-8667661b9" height="30" width="40" /></a>
 <a href="https://instagram.com/nikhilpatidar01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikhilpatidar01" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@nikhilpatidar01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@nikhilpatidar01" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@nikhilpatidar01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@nikhilpatidar01" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
